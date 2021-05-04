@@ -1,2 +1,2 @@
 # DataScienceQuoda
-Treinamento sobre Data Science da Quoda
+Treinamento sobre Data Science da Qoda
