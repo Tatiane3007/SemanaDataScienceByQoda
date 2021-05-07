@@ -31,7 +31,7 @@ while num < 100:
 de crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, 
 mantidas as taxas de crescimento.
 15 - Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
-
+'''
 
 # 11
 num1 = int(input("Digite um valor entre 0 e 10: "))
